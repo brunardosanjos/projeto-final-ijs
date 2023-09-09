@@ -1,5 +1,22 @@
 {
-  "devDependencies": {
-    "jest": "^29.6.4"
-  }
+	"devDependencies": {
+		"jest": "^29.6.4"
+	},
+	"name": "projeto-final-ijs",
+	"description": "",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/brunardosanjos/projeto-final-ijs.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/brunardosanjos/projeto-final-ijs/issues"
+	},
+	"homepage": "https://github.com/brunardosanjos/projeto-final-ijs#readme"
 }
