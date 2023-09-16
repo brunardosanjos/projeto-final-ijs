@@ -2,9 +2,6 @@ const { Restaurantes } = require('../models/Restaurantes');
 const { Endereco } = require('../models/Endereco');
 
 describe('Restaurantes', () => {
-	let endereco;
-	let restaurante;
-
 	beforeEach(() => {
 		endereco = new Endereco('Graças', '70', '0050700', 'zona norte');
 		restaurante = new Restaurantes('Organico', endereco, 'Italiana');

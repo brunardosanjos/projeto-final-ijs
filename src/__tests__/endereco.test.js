@@ -1,8 +1,6 @@
 const { Endereco } = require('../models/Endereco');
 
 describe('Quando testar a classe endereço', () => {
-	let endereco;
-
 	beforeEach(() => {
 		endereco = new Endereco('Graças', '70', '0050700', 'zona norte');
 	});
