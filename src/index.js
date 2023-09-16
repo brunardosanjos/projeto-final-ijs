@@ -3,7 +3,7 @@ const { Endereco } = require('./models/Endereco');
 const { Usuario } = require('./models/Usuario');
 
 //endereco
-const gracas = new Endereco('Graças', 126, 5080060, 'Zona Norte');
+const gracas = new Endereco('Graças', '126', '5080060', 'Zona Norte');
 console.log(gracas);
 
 //restaurantes
