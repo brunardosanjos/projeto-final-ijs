@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto Final {Reprograma} - 🏳️‍🌈 OPEN DOOR 🏳️‍🌈
+<h1 align="center"> 🏳️‍🌈 OPEN DOOR 🏳️‍🌈
 
 ## Imersão Javascript de Desenvolvedora Backend | Turma On25 da [{Reprograma}](https://www.reprograma.com.br/) 
 
