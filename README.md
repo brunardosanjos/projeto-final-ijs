@@ -1,7 +1,17 @@
 
 <h1 align="center"> 🏳️‍🌈 OPEN DOOR 🏳️‍🌈
 
+</br>
+
 ## Imersão Javascript de Desenvolvedora Backend | Turma On25 da [{Reprograma}](https://www.reprograma.com.br/) 
+
+</br>
+
+<p align="center">
+<img src= "https://github.com/brunardosanjos/projeto-final-ijs/assets/69405837/1fae67a5-fb3b-47b4-8293-7bde0a500185" width="60%" height="50%"/>
+</p>
+
+</br>
 
 ## 🌈 Descrição
 
